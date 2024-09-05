@@ -7,6 +7,6 @@
 <</head>
 <body>
 <h1>Min IS-114 portfolio</h1>
-<p>Kort beskrivelse av portfolio (test-repository-1 for GitHub) ...
+<p>Kort beskrivelse av portfolio (test-repository-1 for GitHub. Nå håper jeg at jeg har fikset hotfixen) ...
 </body>
 </html>
